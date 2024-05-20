@@ -30,3 +30,28 @@ To use the Sephora Ingredient Checker locally, follow these steps:
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/shahera5/Sephora_ingredient_checker.git
+   
+2. Navigate to the project directory:
+   cd Sephora_ingredient_checker
+3. Install dependencies:
+   pip install -r requirements.txt
+
+## Usage
+To run the Sephora Ingredient Checker, execute the following command in your terminal:
+python app.py
+Open your web browser and navigate to http://localhost:5000 to access the application.
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+
+Fork the repository.
+Create a new branch for your feature or bug fix.
+Make your changes and commit them with descriptive messages.
+Push your changes to your fork.
+Submit a pull request, explaining the changes you've made.
+For major changes, please open an issue first to discuss the proposed changes.
+
+## License
+
+This project is licensed under the MIT License.
